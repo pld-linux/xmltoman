@@ -27,7 +27,7 @@ Załączony jest także arkusz XSL do wykonywania analogicznych zadań.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 %{__make}
