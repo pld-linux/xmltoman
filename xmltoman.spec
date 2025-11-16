@@ -2,7 +2,7 @@ Summary:	Scripts for converting XML to roff or HTML
 Summary(pl.UTF-8):	Skrypty do konwersji XML-a do formatu roff lub HTML
 Name:		xmltoman
 Version:	0.4
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/Publishing
 Source0:	http://downloads.sourceforge.net/xmltoman/%{name}-%{version}.tar.gz
